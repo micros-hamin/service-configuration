@@ -1,0 +1,6 @@
+product:
+  property: product profile prod
+spring:
+  data:
+    mongodb:
+      url: mongodb://127.0.0.1:27017/productdb
