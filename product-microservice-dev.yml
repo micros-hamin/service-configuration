@@ -6,4 +6,4 @@ spring:
       url: mongodb://127.0.0.1:27017/productdb
 
 app:
-  testProp: Property of test
+  testProp: Property of test update
